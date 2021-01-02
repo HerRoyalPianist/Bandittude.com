@@ -88,7 +88,11 @@ p, form{
 nav{
   background-color: #0f0f0f;
 }
-
+.navbar-dark 
+.navbar-nav
+.nav-link {
+  color: #ff0064;
+}
 .navbar a {
 color: #ff0064;
 text-align: center;
